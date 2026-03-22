@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "8934dc3022038af8285afc86c472ca16"
+API_KEY = "your_api_key_here"
 
 def get_pollution_data(city):
 
