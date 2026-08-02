@@ -6,11 +6,20 @@ load_dotenv()
 
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
-def get_pollution_data(city):
+# Use Streamlit Cloud secret when deployed
+try:
+    import streamlit as st
 
+    if "OPENWEATHER_API_KEY" in st.secrets:
+        API_KEY = st.secrets["OPENWEATHER_API_KEY"]
+except Exception:
+    pass
+
+
+def get_pollution_data(city):
     # Step 1: Get latitude and longitude
     geo_url = (
-        f"https://api.openweathermap.org/geo/1.0/direct"
+        "https://api.openweathermap.org/geo/1.0/direct"
         f"?q={city}&limit=1&appid={API_KEY}"
     )
 
@@ -27,7 +36,7 @@ def get_pollution_data(city):
 
     # Step 2: Get pollution data
     url = (
-        f"https://api.openweathermap.org/data/2.5/air_pollution"
+        "https://api.openweathermap.org/data/2.5/air_pollution"
         f"?lat={lat}&lon={lon}&appid={API_KEY}"
     )
 
