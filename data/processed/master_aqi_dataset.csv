@@ -1,0 +1,409 @@
+city,state,station,last_update,latitude,longitude,pm25,pm10,no2,so2,co,o3,aqi,aqi_category
+Agra,Uttar_Pradesh,"Manoharpur, Agra - UPPCB",2025-05-19 10:00:00,27.23711,78.01936,58.0,98.0,32.0,44.0,16.0,2.0,285.6521739130435,Poor
+Agra,Uttar_Pradesh,"Rohta, Agra - UPPCB",2025-05-19 10:00:00,27.106972,78.000111,65.0,61.0,6.0,16.0,30.0,12.0,376.56804733727813,Very Poor
+Agra,Uttar_Pradesh,"Sanjay Palace, Agra - UPPCB",2025-05-19 10:00:00,27.19865833,78.00598056,100.0,105.0,24.0,7.0,29.0,36.0,370.7100591715976,Very Poor
+Agra,Uttar_Pradesh,"Sector-3B Avas Vikas Colony, Agra - UPPCB",2025-05-19 10:00:00,27.19412,77.96237,,128.0,28.0,23.0,34.0,12.0,400.0,Very Poor
+Agra,Uttar_Pradesh,"Shahjahan Garden, Agra - UPPCB",2025-05-19 10:00:00,27.169338,78.03582,57.0,75.0,32.0,21.0,19.0,22.0,312.1301775147929,Very Poor
+Agra,Uttar_Pradesh,"Shastripuram, Agra - UPPCB",2025-05-19 10:00:00,27.19862,77.92066,54.0,120.0,36.0,10.0,15.0,69.0,271.30434782608694,Poor
+Ahmedabad,Gujarat,"Chandkheda, Ahmedabad - IITM",2025-05-19 10:00:00,23.107969,72.574648,110.0,119.0,107.0,9.0,22.0,16.0,329.70414201183434,Very Poor
+Ahmedabad,Gujarat,"Gyaspur, Ahmedabad - IITM",2025-05-19 10:00:00,22.977134,72.553024,112.0,99.0,36.0,18.0,11.0,11.0,273.5117056856187,Poor
+Ahmedabad,Gujarat,"Maninagar, Ahmedabad - GPCB",2025-05-19 10:00:00,23.002657,72.591912,45.0,74.0,23.0,30.0,31.0,16.0,382.4260355029586,Very Poor
+Ahmedabad,Gujarat,"Rakhial, Ahmedabad - IITM",2025-05-19 10:00:00,23.016834,72.625775,33.0,47.0,14.0,25.0,51.0,18.0,485.0753768844221,Severe
+Ahmedabad,Gujarat,"SAC ISRO Bopal, Ahmedabad - IITM",2025-05-19 10:00:00,23.041137,72.456691,59.0,68.0,10.0,2.0,22.0,4.0,329.70414201183434,Very Poor
+Ahmedabad,Gujarat,"SAC ISRO Satellite, Ahmedabad - IITM",2025-05-19 10:00:00,23.023389,72.515201,63.0,68.0,8.0,7.0,7.0,15.0,162.40506329113924,Moderately Polluted
+Ahmedabad,Gujarat,"SVPI Airport Hansol, Ahmedabad - IITM",2025-05-19 10:00:00,23.076793,72.627874,34.0,41.0,25.0,3.0,10.0,4.0,200.0,Moderately Polluted
+Ahmedabad,Gujarat,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",2025-05-19 10:00:00,23.04307,72.562968,54.0,60.0,97.0,7.0,9.0,8.0,187.46835443037975,Moderately Polluted
+Ahmednagar,Maharashtra,"Tarakpur, Ahmednagar - MPCB",2025-05-19 10:00:00,19.10122,74.73339,11.0,,28.0,10.0,31.0,6.0,382.4260355029586,Very Poor
+Ajmer,Rajasthan,"Civil Lines,  Ajmer - RSPCB",2025-05-19 10:00:00,26.470859,74.646594,61.0,84.0,37.0,7.0,31.0,25.0,382.4260355029586,Very Poor
+Akola,Maharashtra,"Ramdaspeth, Akola - MPCB",2025-05-19 10:00:00,20.719516,77.000253,46.0,52.0,16.0,6.0,35.0,17.0,405.47738693467335,Severe
+Alwar,Rajasthan,"Moti Doongri, Alwar - RSPCB",2025-05-19 10:00:00,27.554793,76.611536,60.0,79.0,125.0,44.0,72.0,21.0,500.0,Severe
+Amaravati,Andhra_Pradesh,"Secretariat, Amaravati - APPCB",2025-05-19 10:00:00,16.5150833,80.5181667,36.0,,35.0,15.0,44.0,10.0,450.25125628140705,Severe
+Amravati,Maharashtra,"Shivneri Colony, Amravati - MPCB",2025-05-19 10:00:00,20.9402359,77.7895248,51.0,67.0,12.0,2.0,23.0,27.0,335.5621301775148,Very Poor
+Amravati,Maharashtra,"Shri Shivaji Science College, Amaravati - MPCB",2025-05-19 10:00:00,20.939198,77.765701,34.0,47.0,10.0,2.0,19.0,35.0,312.1301775147929,Very Poor
+Amritsar,Punjab,"Golden Temple, Amritsar - PPCB",2025-05-19 10:00:00,31.62,74.876512,97.0,154.0,,27.0,6.0,69.0,223.84615384615387,Poor
+Anantapur,Andhra_Pradesh,"Gulzarpet, Anantapur - APPCB",2025-05-19 10:00:00,14.675886,77.593027,69.0,64.0,32.0,13.0,46.0,8.0,460.2010050251256,Severe
+Angul,Odisha,"Hakimapada, Angul - OSPCB",2025-05-19 10:00:00,20.832874,85.104082,15.0,40.0,7.0,16.0,63.0,6.0,500.0,Severe
+Ankleshwar,Gujarat,"GIDC, Ankleshwar - GPCB",2025-05-19 10:00:00,21.613267,73.010555,29.0,46.0,51.0,48.0,55.0,48.0,500.0,Severe
+Arrah,Bihar,"New DM Office, Arrah - BSPCB",2025-05-19 10:00:00,25.5626095,84.663264,25.0,51.0,7.0,9.0,18.0,10.0,306.2721893491124,Very Poor
+Asansol,West_Bengal,"Asansol Court Area, Asansol - WBPCB",2025-05-19 10:00:00,23.685297,86.945968,55.0,57.0,22.0,7.0,22.0,12.0,329.70414201183434,Very Poor
+Asansol,West_Bengal,"Evelyn Lodge, Asansol - WBPCB",2025-05-19 10:00:00,23.697936,86.944395,30.0,41.0,10.0,3.0,2.0,13.0,100.0,Satisfactory
+Asansol,West_Bengal,"Mahabir Colliery, Asansol - WBPCB",2025-05-19 10:00:00,23.618183,87.105718,32.0,37.0,14.0,4.0,9.0,7.0,187.46835443037975,Moderately Polluted
+Asansol,West_Bengal,"Trivenidevi Bhalotia College, Asansol - WBPCB",2025-05-19 10:00:00,23.616515,87.119133,40.0,52.0,16.0,8.0,18.0,17.0,306.2721893491124,Very Poor
+Aurangabad,Bihar,"Gurdeo Nagar, Aurangabad - BSPCB",2025-05-19 10:00:00,24.75746,84.366208,39.0,53.0,8.0,10.0,26.0,18.0,353.1360946745562,Very Poor
+Aurangabad,Maharashtra,"MIDC Chilkalthana, Aurangabad - MPCB",2025-05-19 10:00:00,19.87562,75.38731,119.0,106.0,32.0,1.0,102.0,6.0,500.0,Severe
+Aurangabad,Maharashtra,"More Chowk Waluj, Aurangabad - MPCB",2025-05-19 10:00:00,19.8389439,75.244448,,50.0,26.0,19.0,103.0,12.0,500.0,Severe
+Aurangabad,Maharashtra,"Rachnakar Colony, Aurangabad - MPCB",2025-05-19 10:00:00,19.863756,75.321188,45.0,87.0,43.0,15.0,15.0,35.0,271.30434782608694,Poor
+Baddi,Himachal Pradesh,"HIMUDA Complex Phase-1, Baddi - HPPCB",2025-05-19 10:00:00,30.943887,76.801991,153.0,174.0,20.0,62.0,55.0,95.0,500.0,Severe
+Badlapur,Maharashtra,"Katrap, Badlapur - MPCB",2025-05-19 10:00:00,19.16485,73.23409,76.0,105.0,51.0,12.0,37.0,10.0,415.42713567839195,Severe
+Baghpat,Uttar_Pradesh,"Sardar Patel Inter College, Baghpat - UPPCB",2025-05-19 10:00:00,28.964949,77.278761,45.0,142.0,25.0,37.0,38.0,17.0,420.40201005025125,Severe
+Balasore,Odisha,"Kalidaspur, Balasore - OSPCB",2025-05-19 10:00:00,21.51161,86.89088,10.0,33.0,8.0,6.0,24.0,19.0,341.42011834319527,Very Poor
+Banswara,Rajasthan,"Rati Talai, Banswara - RSPCB",2025-05-19 10:00:00,23.55519,74.44001,47.0,61.0,16.0,11.0,108.0,29.0,500.0,Severe
+Baran,Rajasthan,"Bamboliya, Baran - RSPCB",2025-05-19 10:00:00,25.106006,76.469948,29.0,81.0,19.0,5.0,19.0,52.0,312.1301775147929,Very Poor
+Barbil,Odisha,"Forest Office, Barbil - OSPCB",2025-05-19 10:00:00,22.1166054,85.3945546,40.0,60.0,24.0,13.0,25.0,14.0,347.27810650887574,Very Poor
+Bareilly,Uttar_Pradesh,"Civil Lines, Bareilly - UPPCB",2025-05-19 10:00:00,28.359581,79.414455,5.0,12.0,2.0,73.0,7.0,22.0,162.40506329113924,Moderately Polluted
+Bareilly,Uttar_Pradesh,"Rajendra Nagar, Bareilly - UPPCB",2025-05-19 10:00:00,28.38910936,79.42963708,49.0,66.0,2.0,26.0,11.0,,213.91304347826087,Poor
+Baripada,Odisha,"Meher Colony, Baripada - OSPCB",2025-05-19 10:00:00,21.941841,86.728318,18.0,31.0,6.0,14.0,,10.0,31.0,Good
+Barmer,Rajasthan,"Railway Colony, Barmer - RSPCB",2025-05-19 10:00:00,25.747299,71.393989,23.0,81.0,7.0,5.0,8.0,47.0,174.9367088607595,Moderately Polluted
+Barrackpore,West_Bengal,"SVSPA Campus, Barrackpore - WBPCB",2025-05-19 10:00:00,22.7605581,88.3617589,17.0,33.0,14.0,7.0,27.0,7.0,358.9940828402367,Very Poor
+Begusarai,Bihar,"Lohiyanagar, Begusarai - BSPCB",2025-05-19 10:00:00,25.42742023,86.13886079,40.0,56.0,73.0,37.0,49.0,9.0,475.1256281407035,Severe
+Belapur,Maharashtra,"CBD Belapur, Belapur - MPCB",2025-05-19 10:00:00,19.0243902,73.0406721,35.0,50.0,8.0,3.0,24.0,27.0,341.42011834319527,Very Poor
+Bengaluru,Karnataka,"Bapuji Nagar, Bengaluru - KSPCB",2025-05-19 10:00:00,12.951913,77.539784,26.0,39.0,6.0,36.0,39.0,23.0,425.37688442211055,Severe
+Bengaluru,Karnataka,"City Railway Station, Bengaluru - KSPCB",2025-05-19 10:00:00,12.9756843,77.5660749,,85.0,41.0,10.0,48.0,,470.1507537688442,Severe
+Bengaluru,Karnataka,"Hebbal, Bengaluru - KSPCB",2025-05-19 10:00:00,13.029152,77.585901,14.0,17.0,19.0,8.0,22.0,10.0,329.70414201183434,Very Poor
+Bengaluru,Karnataka,"Hombegowda Nagar, Bengaluru - KSPCB",2025-05-19 10:00:00,12.938539,77.5901,8.0,20.0,16.0,9.0,17.0,18.0,300.0,Poor
+Bengaluru,Karnataka,"Jayanagar 5th Block, Bengaluru - KSPCB",2025-05-19 10:00:00,12.920984,77.584908,53.0,26.0,14.0,12.0,7.0,21.0,162.40506329113924,Moderately Polluted
+Bengaluru,Karnataka,"Jigani, Bengaluru - KSPCB",2025-05-19 10:00:00,12.7816279,77.6299145,42.0,73.0,39.0,29.0,32.0,24.0,388.28402366863907,Very Poor
+Bengaluru,Karnataka,"Kasturi Nagar, Bengaluru - KSPCB",2025-05-19 10:00:00,13.003872,77.664217,,73.0,28.0,9.0,30.0,29.0,376.56804733727813,Very Poor
+Bengaluru,Karnataka,"Sanegurava Halli, Bengaluru - KSPCB",2025-05-19 10:00:00,12.990328,77.5431385,,41.0,22.0,8.0,32.0,,388.28402366863907,Very Poor
+Bengaluru,Karnataka,"Shivapura_Peenya, Bengaluru - KSPCB",2025-05-19 10:00:00,13.0246342,77.5080115,63.0,,8.0,6.0,42.0,19.0,440.30150753768845,Severe
+Bengaluru,Karnataka,"Silk Board, Bengaluru - KSPCB",2025-05-19 10:00:00,12.917348,77.622813,20.0,85.0,4.0,8.0,76.0,18.0,500.0,Severe
+Bharatpur,Rajasthan,"Krishna Nagar, Bharatpur - RSPCB",2025-05-19 10:00:00,27.215415,77.50873,59.0,102.0,41.0,6.0,37.0,20.0,415.42713567839195,Severe
+Bhilai,Chhattisgarh,"32Bungalows, Bhilai - CECB",2025-05-19 10:00:00,21.194815,81.31477,44.0,43.0,11.0,8.0,29.0,18.0,370.7100591715976,Very Poor
+Bhilai,Chhattisgarh,"Civic Center, Bhilai - Bhilai Steel Plant",2025-05-19 10:00:00,21.185571,81.343175,34.0,30.0,21.0,11.0,53.0,9.0,495.0251256281407,Severe
+Bhiwadi,Rajasthan,"RIICO Ind. Area III, Bhiwadi - RSPCB",2025-05-19 10:00:00,28.194909,76.862296,73.0,97.0,45.0,10.0,63.0,26.0,500.0,Severe
+Bhiwadi,Rajasthan,"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",2025-05-19 10:00:00,28.207266,76.829265,74.0,111.0,33.0,21.0,50.0,19.0,480.1005025125628,Severe
+Bhiwandi,Maharashtra,"Gokul Nagar, Bhiwandi - MPCB",2025-05-19 10:00:00,19.309073,73.057223,68.0,89.0,46.0,14.0,32.0,12.0,388.28402366863907,Very Poor
+Bhopal,Madhya Pradesh,"Idgah Hills, Bhopal - MPPCB",2025-05-19 10:00:00,23.264759,77.381568,55.0,89.0,29.0,24.0,10.0,43.0,200.0,Moderately Polluted
+Bhopal,Madhya Pradesh,"Paryavaran Parisar, Bhopal - MPPCB",2025-05-19 10:00:00,23.210494,77.425409,47.0,57.0,18.0,9.0,9.0,41.0,187.46835443037975,Moderately Polluted
+Bhopal,Madhya Pradesh,"T T Nagar, Bhopal - MPPCB",2025-05-19 10:00:00,23.233584,77.400574,38.0,,28.0,14.0,26.0,108.0,353.1360946745562,Very Poor
+Bhubaneswar,Odisha,"Lingraj Mandir, Bhubaneswar - OSPCB",2025-05-19 10:00:00,20.24079,85.836784,9.0,19.0,6.0,4.0,52.0,13.0,490.0502512562814,Severe
+Bhubaneswar,Odisha,"Patia, Bhubaneswar - OSPCB",2025-05-19 10:00:00,20.34652,85.8163,,21.0,9.0,7.0,60.0,13.0,500.0,Severe
+Bikaner,Rajasthan,"MM Ground, Bikaner - RSPCB",2025-05-19 10:00:00,28.018792,73.292658,28.0,125.0,9.0,4.0,10.0,45.0,200.0,Moderately Polluted
+Bilaspur,Chhattisgarh,"Mangala, Bilaspur - NTPC",2025-05-19 10:00:00,22.08815,82.13737,48.0,47.0,31.0,23.0,49.0,,475.1256281407035,Severe
+Bileipada,Odisha,"Tata Township, Bileipada - OSPCB",2025-05-19 10:00:00,22.06156703,85.47409613,47.0,87.0,8.0,4.0,20.0,10.0,317.98816568047334,Very Poor
+Boisar,Maharashtra,"Khaira, Boisar - MPCB",2025-05-19 10:00:00,19.786089,72.757971,35.0,58.0,8.0,9.0,12.0,29.0,228.2608695652174,Poor
+Brajrajnagar,Odisha,"GM Office, Brajrajnagar - OSPCB",2025-05-19 10:00:00,21.8004996,83.8396977,40.0,56.0,14.0,12.0,73.0,21.0,500.0,Severe
+Bulandshahr,Uttar_Pradesh,"Yamunapuram, Bulandshahr - UPPCB",2025-05-19 10:00:00,28.406963,77.849831,74.0,118.0,15.0,23.0,6.0,19.0,149.873417721519,Moderately Polluted
+Bundi,Rajasthan,"New Colony, Bundi - RSPCB",2025-05-19 10:00:00,25.435774,75.644272,36.0,88.0,15.0,8.0,17.0,41.0,300.0,Poor
+Buxar,Bihar,"Charitra Van, Buxar - BSPCB",2025-05-19 10:00:00,25.56752,83.966379,40.0,58.0,5.0,7.0,27.0,5.0,358.9940828402367,Very Poor
+Byrnihat,Assam,"Central Academy for SFS, Byrnihat - PCBA",2025-05-19 10:00:00,26.071318,91.87488,102.0,90.0,12.0,31.0,51.0,23.0,485.0753768844221,Severe
+Chamarajanagar,Karnataka,"Urban, Chamarajanagar - KSPCB",2025-05-19 10:00:00,11.55358,76.55521,25.0,40.0,21.0,3.0,20.0,15.0,317.98816568047334,Very Poor
+Chandigarh,Chandigarh,"Sector-53, Chandigarh - CPCC",2025-05-19 10:00:00,30.719859,76.738637,72.0,105.0,27.0,17.0,59.0,58.0,500.0,Severe
+Chandrapur,Maharashtra,"MIDC Khutala, Chandrapur - MPCB",2025-05-19 10:00:00,19.9775302,79.2337086,,102.0,,22.0,10.0,27.0,200.0,Moderately Polluted
+Chennai,TamilNadu,"Alandur Bus Depot, Chennai - CPCB",2025-05-19 10:00:00,12.9099161,80.1076538,43.0,38.0,25.0,15.0,49.0,182.0,475.1256281407035,Severe
+Chennai,TamilNadu,"Kodungaiyur, Chennai - TNPCB",2025-05-19 10:00:00,13.1278,80.2642,32.0,47.0,21.0,4.0,24.0,16.0,341.42011834319527,Very Poor
+Chennai,TamilNadu,"Manali Village, Chennai - TNPCB",2025-05-19 10:00:00,13.1662,80.2584,42.0,38.0,4.0,7.0,29.0,39.0,370.7100591715976,Very Poor
+Chennai,TamilNadu,"Manali, Chennai - CPCB",2025-05-19 10:00:00,13.164544,80.26285,90.0,,26.0,20.0,13.0,,242.6086956521739,Poor
+Chennai,TamilNadu,"Perungudi, Chennai - TNPCB",2025-05-19 10:00:00,12.9533,80.2357,39.0,55.0,8.0,6.0,36.0,15.0,410.45226130653265,Severe
+Chennai,TamilNadu,"Royapuram, Chennai - TNPCB",2025-05-19 10:00:00,13.1036,80.2909,37.0,33.0,20.0,8.0,31.0,9.0,382.4260355029586,Very Poor
+Chennai,TamilNadu,"Velachery Res. Area, Chennai - CPCB",2025-05-19 10:00:00,13.0052189,80.2398125,37.0,52.0,14.0,9.0,47.0,43.0,465.1758793969849,Severe
+Chikkaballapur,Karnataka,"Chikkaballapur Rural, Chikkaballapur - KSPCB",2025-05-19 10:00:00,13.428828,77.731418,21.0,31.0,25.0,11.0,6.0,29.0,149.873417721519,Moderately Polluted
+Chikkamagaluru,Karnataka,"Kalyana Nagara, Chikkamagaluru - KSPCB",2025-05-19 10:00:00,13.328028,75.797056,20.0,32.0,26.0,2.0,11.0,10.0,213.91304347826087,Poor
+Chittoor,Andhra_Pradesh,"Gangineni Cheruvu, Chittoor - APPCB",2025-05-19 10:00:00,13.20488,79.097889,72.0,65.0,21.0,10.0,49.0,28.0,475.1256281407035,Severe
+Chittorgarh,Rajasthan,"Shastri Nagar, Chittorgarh - RSPCB",2025-05-19 10:00:00,24.892047,74.623527,48.0,74.0,19.0,9.0,22.0,30.0,329.70414201183434,Very Poor
+Churu,Rajasthan,"Subash Chowk, Churu - RSPCB",2025-05-19 10:00:00,28.296139,74.961696,37.0,81.0,10.0,5.0,9.0,48.0,187.46835443037975,Moderately Polluted
+Coimbatore,TamilNadu,"PSG College of Arts and Science, Coimbatore - TNPCB",2025-05-19 10:00:00,11.0328,77.0349,28.0,23.0,9.0,5.0,,,46.66666666666667,Good
+Cuddalore,TamilNadu,"Kudikadu, Cuddalore - TNPCB",2025-05-19 10:00:00,11.6829898,79.7532099,13.0,16.0,19.0,12.0,,13.0,23.75,Good
+Cuddalore,TamilNadu,"Semmandalam, Cuddalore - TNPCB",2025-05-19 10:00:00,11.7637683,79.7499835,19.0,14.0,8.0,,,1.0,31.666666666666668,Good
+Cuttack,Odisha,"CDA Area, Cuttack - OSPCB",2025-05-19 10:00:00,20.48891,85.84768,,28.0,9.0,2.0,15.0,9.0,271.30434782608694,Poor
+Damoh,Madhya Pradesh,"Shrivastav Colony, Damoh - MPPCB",2025-05-19 10:00:00,23.81748678,79.446246,44.0,81.0,,6.0,23.0,,335.5621301775148,Very Poor
+Dausa,Rajasthan,"Khatikan Mohalla, Dausa - RSPCB",2025-05-19 10:00:00,26.895552,76.334753,48.0,135.0,38.0,8.0,16.0,59.0,285.6521739130435,Poor
+Davanagere,Karnataka,"Devaraj Urs Badavane, Davanagere - KSPCB",2025-05-19 10:00:00,14.4758,75.9052,35.0,22.0,10.0,8.0,32.0,19.0,388.28402366863907,Very Poor
+Dehradun,Uttarakhand,"Doon University, Dehradun - UKPCB",2025-05-19 10:00:00,30.269444,78.044167,68.0,94.0,2.0,1.0,9.0,38.0,187.46835443037975,Moderately Polluted
+Delhi,Delhi,"Alipur, Delhi - DPCC",2025-05-19 10:00:00,28.815329,77.15301,146.0,177.0,26.0,23.0,38.0,26.0,420.40201005025125,Severe
+Delhi,Delhi,"Anand Vihar, Delhi - DPCC",2025-05-19 10:00:00,28.647622,77.315809,138.0,178.0,73.0,27.0,58.0,3.0,500.0,Severe
+Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2025-05-19 10:00:00,28.695381,77.181665,156.0,196.0,37.0,22.0,48.0,27.0,470.1507537688442,Severe
+Delhi,Delhi,"Aya Nagar, Delhi - IMD",2025-05-19 10:00:00,28.4706914,77.1099364,180.0,193.0,41.0,,65.0,53.0,500.0,Severe
+Delhi,Delhi,"Bawana, Delhi - DPCC",2025-05-19 10:00:00,28.7762,77.051074,163.0,189.0,21.0,15.0,44.0,14.0,450.25125628140705,Severe
+Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",2025-05-19 10:00:00,28.5512005,77.2735737,131.0,179.0,7.0,,30.0,336.0,376.56804733727813,Very Poor
+Delhi,Delhi,"Chandni Chowk, Delhi - IITM",2025-05-19 10:00:00,28.656756,77.227234,69.0,71.0,73.0,16.0,73.0,16.0,500.0,Severe
+Delhi,Delhi,"DTU, Delhi - CPCB",2025-05-19 10:00:00,28.7500499,77.1112615,106.0,182.0,48.0,79.0,35.0,28.0,405.47738693467335,Severe
+Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2025-05-19 10:00:00,28.498571,77.26484,120.0,166.0,46.0,14.0,44.0,15.0,450.25125628140705,Severe
+Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2025-05-19 10:00:00,28.5710274,77.0719006,146.0,178.0,51.0,24.0,54.0,35.0,500.0,Severe
+Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",2025-05-19 10:00:00,28.6811736,77.3025234,189.0,146.0,73.0,14.0,54.0,12.0,500.0,Severe
+Delhi,Delhi,"ITO, Delhi - CPCB",2025-05-19 10:00:00,28.628624,77.24106,127.0,136.0,41.0,12.0,53.0,15.0,495.0251256281407,Severe
+Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2025-05-19 10:00:00,28.73282,77.170633,217.0,216.0,30.0,15.0,34.0,9.0,400.0,Very Poor
+Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2025-05-19 10:00:00,28.58028,77.233829,87.0,166.0,58.0,14.0,45.0,36.0,455.22613065326635,Severe
+Delhi,Delhi,"Lodhi Road, Delhi - IITM",2025-05-19 10:00:00,28.588333,77.221667,209.0,122.0,39.0,18.0,,,368.7528868360277,Very Poor
+Delhi,Delhi,"Lodhi Road, Delhi - IMD",2025-05-19 10:00:00,28.5918245,77.2273074,108.0,171.0,25.0,,40.0,55.0,430.35175879396985,Severe
+Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2025-05-19 10:00:00,28.611281,77.237738,161.0,160.0,38.0,11.0,43.0,11.0,445.27638190954775,Severe
+Delhi,Delhi,"Mandir Marg, Delhi - DPCC",2025-05-19 10:00:00,28.636429,77.201067,105.0,141.0,29.0,12.0,33.0,47.0,394.14201183431953,Very Poor
+Delhi,Delhi,"Mundka, Delhi - DPCC",2025-05-19 10:00:00,28.684678,77.076574,133.0,246.0,37.0,14.0,36.0,14.0,410.45226130653265,Severe
+Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",2025-05-19 10:00:00,28.60909,77.0325413,254.0,150.0,59.0,4.0,15.0,27.0,402.91291291291293,Severe
+Delhi,Delhi,"Najafgarh, Delhi - DPCC",2025-05-19 10:00:00,28.570173,76.933762,119.0,151.0,30.0,9.0,50.0,33.0,480.1005025125628,Severe
+Delhi,Delhi,"Narela, Delhi - DPCC",2025-05-19 10:00:00,28.822836,77.101981,165.0,190.0,27.0,11.0,47.0,23.0,465.1758793969849,Severe
+Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2025-05-19 10:00:00,28.56789,77.250515,148.0,174.0,41.0,15.0,40.0,49.0,430.35175879396985,Severe
+Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2025-05-19 10:00:00,28.530785,77.271255,121.0,175.0,35.0,6.0,42.0,43.0,440.30150753768845,Severe
+Delhi,Delhi,"Patparganj, Delhi - DPCC",2025-05-19 10:00:00,28.623763,77.287209,146.0,204.0,28.0,5.0,50.0,20.0,480.1005025125628,Severe
+Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2025-05-19 10:00:00,28.674045,77.131023,152.0,,40.0,26.0,44.0,48.0,450.25125628140705,Severe
+Delhi,Delhi,"Pusa, Delhi - DPCC",2025-05-19 10:00:00,28.639652,77.146275,145.0,180.0,40.0,17.0,15.0,30.0,319.9769053117783,Very Poor
+Delhi,Delhi,"R K Puram, Delhi - DPCC",2025-05-19 10:00:00,28.563262,77.186937,151.0,162.0,35.0,12.0,33.0,19.0,394.14201183431953,Very Poor
+Delhi,Delhi,"Rohini, Delhi - DPCC",2025-05-19 10:00:00,28.732528,77.11992,127.0,185.0,40.0,9.0,51.0,9.0,485.0753768844221,Severe
+Delhi,Delhi,"Shadipur, Delhi - CPCB",2025-05-19 10:00:00,28.6514781,77.1473105,163.0,176.0,94.0,30.0,54.0,26.0,500.0,Severe
+Delhi,Delhi,"Sirifort, Delhi - CPCB",2025-05-19 10:00:00,28.5504249,77.2159377,181.0,172.0,55.0,32.0,48.0,28.0,470.1507537688442,Severe
+Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2025-05-19 10:00:00,28.710508,77.249485,106.0,172.0,27.0,14.0,36.0,101.0,410.45226130653265,Severe
+Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",2025-05-19 10:00:00,28.531346,77.190156,133.0,163.0,36.0,10.0,44.0,16.0,450.25125628140705,Severe
+Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2025-05-19 10:00:00,28.672342,77.31526,116.0,172.0,31.0,15.0,32.0,8.0,388.28402366863907,Very Poor
+Delhi,Delhi,"Wazirpur, Delhi - DPCC",2025-05-19 10:00:00,28.699793,77.165453,184.0,236.0,59.0,12.0,53.0,12.0,495.0251256281407,Severe
+Dewas,Madhya Pradesh,"Bhopal Chauraha, Dewas - MPPCB",2025-05-19 10:00:00,22.9682591,76.064118,33.0,64.0,29.0,48.0,14.0,73.0,256.95652173913044,Poor
+Dhanbad,Jharkhand,"Sardar Patel Nagar, Dhanbad - JSPCB",2025-05-19 10:00:00,23.80569,86.44268,47.0,,126.0,,2.0,23.0,146.48648648648648,Moderately Polluted
+Dharwad,Karnataka,"Kalabhavan, Dharwad - KSPCB",2025-05-19 10:00:00,15.459706,75.008381,49.0,63.0,25.0,2.0,31.0,7.0,382.4260355029586,Very Poor
+Dholpur,Rajasthan,"Raja Ganj, Dholpur - RSPCB",2025-05-19 10:00:00,26.699557,77.898881,45.0,124.0,20.0,11.0,31.0,45.0,382.4260355029586,Very Poor
+Dindigul,TamilNadu,"Mendonsa Colony, Dindigul - TNPCB",2025-05-19 10:00:00,10.358535,77.984321,25.0,39.0,,21.0,9.0,2.0,187.46835443037975,Moderately Polluted
+Dungarpur,Rajasthan,"Bhoiwada, Dungarpur - RSPCB",2025-05-19 10:00:00,23.837789,73.714926,51.0,85.0,8.0,7.0,10.0,34.0,200.0,Moderately Polluted
+Durgapur,West_Bengal,"Mahishkapur Road_B-Zone, Durgapur - WBPCB",2025-05-19 10:00:00,23.567923,87.306843,27.0,58.0,11.0,26.0,27.0,5.0,358.9940828402367,Very Poor
+Durgapur,West_Bengal,"PCBL Residential Complex, Durgapur - WBPCB",2025-05-19 10:00:00,23.508764,87.35444,33.0,77.0,26.0,5.0,68.0,16.0,500.0,Severe
+Eloor,Kerala,"Udyogamandal, Eloor - Kerala PCB",2025-05-19 10:00:00,10.073232,76.302765,47.0,43.0,8.0,3.0,20.0,12.0,317.98816568047334,Very Poor
+Firozabad,Uttar_Pradesh,"Nagla Bhau, Firozabad - UPPCB",2025-05-19 10:00:00,27.168897,78.37696,35.0,66.0,17.0,27.0,28.0,18.0,364.85207100591714,Very Poor
+Gandhinagar,Gujarat,"GIFT City, Gandhinagar - IITM",2025-05-19 10:00:00,23.163798,72.677768,98.0,82.0,29.0,24.0,45.0,10.0,455.22613065326635,Severe
+Gandhinagar,Gujarat,"IIPHG Lekawada, Gandhinagar - IITM",2025-05-19 10:00:00,23.243639,72.68994,65.0,78.0,29.0,4.0,26.0,3.0,353.1360946745562,Very Poor
+Gandhinagar,Gujarat,"Sector-10, Gandhinagar - GPCB",2025-05-19 10:00:00,23.221714,72.654328,30.0,62.0,18.0,6.0,43.0,13.0,445.27638190954775,Severe
+Gaya,Bihar,"Collectorate, Gaya - BSPCB",2025-05-19 10:00:00,24.7955,84.9994,86.0,,6.0,,39.0,20.0,425.37688442211055,Severe
+Gaya,Bihar,"Kareemganj, Gaya - BSPCB",2025-05-19 10:00:00,24.792403,84.992416,75.0,112.0,5.0,15.0,,22.0,150.33444816053512,Moderately Polluted
+Gaya,Bihar,"SFTI Kusdihra, Gaya - BSPCB",2025-05-19 10:00:00,24.762518,84.982348,52.0,69.0,18.0,8.0,30.0,16.0,376.56804733727813,Very Poor
+Ghaziabad,Uttar_Pradesh,"Indirapuram, Ghaziabad - UPPCB",2025-05-19 10:00:00,28.646233,77.358075,129.0,123.0,33.0,13.0,55.0,40.0,500.0,Severe
+Ghaziabad,Uttar_Pradesh,"Loni, Ghaziabad - UPPCB",2025-05-19 10:00:00,28.757294,77.278792,108.0,126.0,32.0,24.0,55.0,17.0,500.0,Severe
+Ghaziabad,Uttar_Pradesh,"Sanjay Nagar, Ghaziabad - UPPCB",2025-05-19 10:00:00,28.685382,77.453839,84.0,125.0,41.0,26.0,40.0,11.0,430.35175879396985,Severe
+Ghaziabad,Uttar_Pradesh,"Vasundhara, Ghaziabad - UPPCB",2025-05-19 10:00:00,28.6603346,77.3572563,63.0,112.0,25.0,12.0,52.0,20.0,490.0502512562814,Severe
+Gorakhpur,Uttar_Pradesh,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",2025-05-19 10:00:00,26.730136,83.433859,88.0,124.0,11.0,34.0,6.0,14.0,193.37792642140468,Moderately Polluted
+Greater Noida,Uttar_Pradesh,"Knowledge Park - III, Greater Noida - UPPCB",2025-05-19 10:00:00,28.47272,77.482,50.0,105.0,33.0,15.0,39.0,22.0,425.37688442211055,Severe
+Greater Noida,Uttar_Pradesh,"Knowledge Park - V, Greater Noida - UPPCB",2025-05-19 10:00:00,28.557054,77.453663,70.0,141.0,49.0,10.0,32.0,8.0,388.28402366863907,Very Poor
+Gummidipoondi,TamilNadu,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",2025-05-19 10:00:00,13.4127,80.1081,42.0,51.0,6.0,13.0,,,70.50167224080268,Satisfactory
+Gurugram,Haryana,"NISE Gwal Pahari, Gurugram - IMD",2025-05-19 10:00:00,28.422681,77.148944,159.0,,14.0,,53.0,61.0,495.0251256281407,Severe
+Guwahati,Assam,"IITG, Guwahati - PCBA",2025-05-19 10:00:00,26.2028636,91.70046436,26.0,27.0,,19.0,6.0,67.0,149.873417721519,Moderately Polluted
+Guwahati,Assam,"LGBI Airport, Guwahati - PCBA",2025-05-19 10:00:00,26.10887,91.589544,46.0,39.0,19.0,10.0,51.0,18.0,485.0753768844221,Severe
+Guwahati,Assam,"Pan Bazaar, Guwahati - PCBA",2025-05-19 10:00:00,26.1875,91.744194,18.0,14.0,,34.0,17.0,17.0,300.0,Poor
+Gwalior,Madhya Pradesh,"City Center, Gwalior - MPPCB",2025-05-19 10:00:00,26.203442,78.193251,55.0,103.0,9.0,20.0,83.0,28.0,500.0,Severe
+Gwalior,Madhya Pradesh,"Deen Dayal Nagar, Gwalior - MPPCB",2025-05-19 10:00:00,26.259242,78.216432,149.0,122.0,29.0,13.0,57.0,28.0,500.0,Severe
+Gwalior,Madhya Pradesh,"Maharaj Bada, Gwalior - MPPCB",2025-05-19 10:00:00,26.200388,78.147714,65.0,125.0,25.0,12.0,40.0,44.0,430.35175879396985,Severe
+Hajipur,Bihar,"Industrial Area, Hajipur - BSPCB",2025-05-19 10:00:00,25.697189,85.2459,57.0,54.0,18.0,9.0,20.0,76.0,317.98816568047334,Very Poor
+Haldia,West_Bengal,"Priyambada Housing Estate, Haldia - WBPCB",2025-05-19 10:00:00,22.06047,88.109737,14.0,24.0,13.0,13.0,21.0,16.0,323.8461538461538,Very Poor
+Hanumangarh,Rajasthan,"Housing Board, Hanumangarh - RSPCB",2025-05-19 10:00:00,29.61075,74.283608,119.0,137.0,11.0,5.0,46.0,23.0,460.2010050251256,Severe
+Hapur,Uttar_Pradesh,"Anand Vihar, Hapur - UPPCB",2025-05-19 10:00:00,28.725645,77.749675,51.0,89.0,39.0,33.0,16.0,1.0,285.6521739130435,Poor
+Hosur,TamilNadu,"SIPCOT Phase-1, Hosur - TNPCB",2025-05-19 10:00:00,12.746998,77.813811,76.0,84.0,2.0,54.0,18.0,10.0,306.2721893491124,Very Poor
+Howrah,West_Bengal,"Belur Math, Howrah - WBPCB",2025-05-19 10:00:00,22.629801,88.352017,13.0,30.0,34.0,8.0,8.0,19.0,174.9367088607595,Moderately Polluted
+Howrah,West_Bengal,"Botanical Garden, Howrah - WBPCB",2025-05-19 10:00:00,22.554954,88.292568,17.0,31.0,55.0,9.0,67.0,8.0,500.0,Severe
+Howrah,West_Bengal,"Dasnagar, Howrah - WBPCB",2025-05-19 10:00:00,22.6025571,88.3105664,33.0,42.0,72.0,4.0,20.0,57.0,317.98816568047334,Very Poor
+Howrah,West_Bengal,"Ghusuri, Howrah - WBPCB",2025-05-19 10:00:00,22.611968,88.347422,28.0,24.0,23.0,10.0,9.0,29.0,187.46835443037975,Moderately Polluted
+Howrah,West_Bengal,"Padmapukur, Howrah - WBPCB",2025-05-19 10:00:00,22.5687319,88.2797276,25.0,50.0,12.0,7.0,16.0,20.0,285.6521739130435,Poor
+Hubballi,Karnataka,"Lingaraj Nagar, Hubballi - KSPCB",2025-05-19 10:00:00,15.3714823,75.1160168,36.0,46.0,9.0,1.0,13.0,11.0,242.6086956521739,Poor
+Hyderabad,Telangana,"Bollaram Industrial Area, Hyderabad - TSPCB",2025-05-19 10:00:00,17.540891,78.358528,53.0,59.0,38.0,8.0,59.0,73.0,500.0,Severe
+Hyderabad,Telangana,"ECIL Kapra, Hyderabad - TSPCB",2025-05-19 10:00:00,17.470431,78.566959,64.0,91.0,17.0,,32.0,13.0,388.28402366863907,Very Poor
+Hyderabad,Telangana,"ICRISAT Patancheru, Hyderabad - TSPCB",2025-05-19 10:00:00,17.5184,78.278777,54.0,53.0,13.0,15.0,27.0,28.0,358.9940828402367,Very Poor
+Hyderabad,Telangana,"IDA Pashamylaram, Hyderabad - TSPCB",2025-05-19 10:00:00,17.5316895,78.218939,,70.0,31.0,4.0,35.0,11.0,405.47738693467335,Severe
+Hyderabad,Telangana,"IITH Kandi, Hyderabad - TSPCB",2025-05-19 10:00:00,17.585705,78.126199,56.0,61.0,14.0,7.0,16.0,34.0,285.6521739130435,Poor
+Hyderabad,Telangana,"Kokapet, Hyderabad - TSPCB",2025-05-19 10:00:00,17.393559,78.339194,46.0,91.0,12.0,10.0,31.0,38.0,382.4260355029586,Very Poor
+Hyderabad,Telangana,"Nacharam_TSIIC IALA, Hyderabad - TSPCB",2025-05-19 10:00:00,17.429398,78.569354,56.0,78.0,13.0,15.0,33.0,11.0,394.14201183431953,Very Poor
+Hyderabad,Telangana,"New Malakpet, Hyderabad - TSPCB",2025-05-19 10:00:00,17.37206,78.50864,44.0,58.0,14.0,13.0,16.0,11.0,285.6521739130435,Poor
+Hyderabad,Telangana,"Ramachandrapuram, Hyderabad - TSPCB",2025-05-19 10:00:00,17.528544,78.286195,45.0,67.0,15.0,11.0,28.0,3.0,364.85207100591714,Very Poor
+Hyderabad,Telangana,"Sanathnagar, Hyderabad - TSPCB",2025-05-19 10:00:00,17.4559458,78.4332152,39.0,,27.0,5.0,49.0,13.0,475.1256281407035,Severe
+Hyderabad,Telangana,"Somajiguda, Hyderabad - TSPCB",2025-05-19 10:00:00,17.417094,78.457437,86.0,101.0,14.0,11.0,29.0,22.0,370.7100591715976,Very Poor
+Imphal,Manipur,"DM College of Science, Imphal - Manipur PCB",2025-05-19 10:00:00,24.8207389,93.9423085,12.0,27.0,8.0,109.0,6.0,,149.873417721519,Moderately Polluted
+Indore,Madhya Pradesh,"Airport Area, Indore - IMC",2025-05-19 10:00:00,22.7289,75.8076,25.0,41.0,,15.0,10.0,3.0,200.0,Moderately Polluted
+Indore,Madhya Pradesh,"Chhoti Gwaltoli, Indore - MPPCB",2025-05-19 10:00:00,22.431,75.5213,50.0,82.0,65.0,11.0,25.0,40.0,347.27810650887574,Very Poor
+Indore,Madhya Pradesh,"Maguda Nagar, Indore - IMC",2025-05-19 10:00:00,22.7524,75.8872,4.0,24.0,2.0,40.0,32.0,8.0,388.28402366863907,Very Poor
+Indore,Madhya Pradesh,"Residency Area, Indore - IMC",2025-05-19 10:00:00,22.7084,75.8815,33.0,43.0,15.0,31.0,15.0,11.0,271.30434782608694,Poor
+Indore,Madhya Pradesh,"Vijay Nagar Scheme-78, Indore - Glenmark",2025-05-19 10:00:00,22.76726,75.8871,52.0,40.0,28.0,28.0,,,86.8896321070234,Satisfactory
+Jabalpur,Madhya Pradesh,"Govindh Bhavan Colony, Jabalpur - JMC",2025-05-19 10:00:00,23.163174,79.973061,40.0,50.0,36.0,18.0,20.0,62.0,317.98816568047334,Very Poor
+Jabalpur,Madhya Pradesh,"Gupteshwar, Jabalpur - JMC",2025-05-19 10:00:00,23.142888,79.916147,44.0,35.0,25.0,8.0,45.0,70.0,455.22613065326635,Severe
+Jabalpur,Madhya Pradesh,"Marhatal, Jabalpur - MPPCB",2025-05-19 10:00:00,23.168606,79.932247,43.0,74.0,30.0,19.0,53.0,70.0,495.0251256281407,Severe
+Jabalpur,Madhya Pradesh,"Suhagi, Jabalpur - JMC",2025-05-19 10:00:00,23.218135,79.95777,57.0,76.0,56.0,17.0,7.0,93.0,162.40506329113924,Moderately Polluted
+Jaipur,Rajasthan,"Adarsh Nagar, Jaipur - RSPCB",2025-05-19 10:00:00,26.902909,75.836858,59.0,76.0,43.0,35.0,45.0,35.0,455.22613065326635,Severe
+Jaipur,Rajasthan,"Mansarovar Sector-12, Jaipur - RSPCB",2025-05-19 10:00:00,26.843698,75.766894,30.0,91.0,26.0,3.0,39.0,55.0,425.37688442211055,Severe
+Jaipur,Rajasthan,"Police Commissionerate, Jaipur - RSPCB",2025-05-19 10:00:00,26.9164092,75.7994901,,101.0,95.0,9.0,30.0,20.0,376.56804733727813,Very Poor
+Jaipur,Rajasthan,"RIICO Sitapura, Jaipur - RSPCB",2025-05-19 10:00:00,26.786682,75.827928,47.0,113.0,31.0,5.0,45.0,45.0,455.22613065326635,Severe
+Jaipur,Rajasthan,"Shastri Nagar, Jaipur - RSPCB",2025-05-19 10:00:00,26.9502929,75.730943,70.0,108.0,18.0,19.0,31.0,29.0,382.4260355029586,Very Poor
+Jaisalmer,Rajasthan,"Sadar Bazar, Jaisalmer - RSPCB",2025-05-19 10:00:00,26.912329,70.909168,27.0,107.0,3.0,7.0,35.0,29.0,405.47738693467335,Severe
+Jalandhar,Punjab,"Civil Line, Jalandhar - PPCB",2025-05-19 10:00:00,31.321907,75.578914,172.0,154.0,32.0,13.0,37.0,65.0,415.42713567839195,Severe
+Jalgaon,Maharashtra,"Prabhat Colony, Jalgaon - MPCB",2025-05-19 10:00:00,21.001264,75.565602,66.0,64.0,11.0,12.0,39.0,30.0,425.37688442211055,Severe
+Jalore,Rajasthan,"Mudtra Sili, Jalore - RSPCB",2025-05-19 10:00:00,25.344694,72.626208,39.0,79.0,9.0,3.0,13.0,42.0,242.6086956521739,Poor
+Jhalawar,Rajasthan,"Rajlaxmi Nagar, Jhalawar - RSPCB",2025-05-19 10:00:00,24.588397,76.172782,107.0,94.0,48.0,13.0,25.0,58.0,347.27810650887574,Very Poor
+Jhansi,Uttar_Pradesh,"Shivaji Nagar, Jhansi - UPPCB",2025-05-19 10:00:00,25.4547,78.6039,45.0,71.0,6.0,41.0,11.0,7.0,213.91304347826087,Poor
+Jhunjhunu,Rajasthan,"Indra Nagar, Jhunjhunu - RSPCB",2025-05-19 10:00:00,28.108988,75.386577,35.0,102.0,10.0,5.0,15.0,50.0,271.30434782608694,Poor
+Jodhpur,Rajasthan,"Collectorate, Jodhpur - RSPCB",2025-05-19 10:00:00,26.268249,73.0193853,59.0,86.0,16.0,12.0,32.0,6.0,388.28402366863907,Very Poor
+Jodhpur,Rajasthan,"Digari Kalan, Jodhpur - RSPCB",2025-05-19 10:00:00,26.29581,73.082283,36.0,68.0,10.0,5.0,16.0,23.0,285.6521739130435,Poor
+Jodhpur,Rajasthan,"Jhalamand, Jodhpur - RSPCB",2025-05-19 10:00:00,26.215415,73.070156,26.0,75.0,6.0,4.0,15.0,40.0,271.30434782608694,Poor
+Jodhpur,Rajasthan,"Mandor, Jodhpur - RSPCB",2025-05-19 10:00:00,26.358805,73.047444,28.0,69.0,14.0,6.0,17.0,38.0,300.0,Poor
+Jodhpur,Rajasthan,"Samrat Ashok Udhyan, Jodhpur - RSPCB",2025-05-19 10:00:00,26.253384,72.976571,34.0,56.0,4.0,2.0,14.0,36.0,256.95652173913044,Poor
+Kalaburagi,Karnataka,"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",2025-05-19 10:00:00,17.336318,76.847397,27.0,36.0,15.0,4.0,37.0,2.0,415.42713567839195,Severe
+Kalyan,Maharashtra,"Khadakpada, Kalyan - MPCB",2025-05-19 10:00:00,19.25292,73.142019,45.0,106.0,5.0,4.0,6.0,16.0,149.873417721519,Moderately Polluted
+Kalyan,Maharashtra,"Pimpleshwar Mandir, Kalyan - MPCB",2025-05-19 10:00:00,19.192056,72.9585188,22.0,45.0,19.0,25.0,49.0,3.0,475.1256281407035,Severe
+Kanchipuram,TamilNadu,"Kilambi, Kanchipuram - TNPCB",2025-05-19 10:00:00,12.864618,79.659968,25.0,41.0,,12.0,22.0,32.0,329.70414201183434,Very Poor
+Kanpur,Uttar_Pradesh,"FTI Kidwai Nagar, Kanpur - UPPCB",2025-05-19 10:00:00,26.428282,80.327067,71.0,86.0,17.0,45.0,27.0,25.0,358.9940828402367,Very Poor
+Kanpur,Uttar_Pradesh,"NSI Kalyanpur, Kanpur - UPPCB",2025-05-19 10:00:00,26.509954,80.249612,54.0,89.0,16.0,18.0,32.0,17.0,388.28402366863907,Very Poor
+Kanpur,Uttar_Pradesh,"Nehru Nagar, Kanpur - UPPCB",2025-05-19 10:00:00,26.4703136,80.3229863,82.0,73.0,67.0,12.0,90.0,22.0,500.0,Severe
+Karauli,Rajasthan,"Satyawati Vihar, Karauli - RSPCB",2025-05-19 10:00:00,26.506177,77.025989,24.0,80.0,17.0,8.0,40.0,47.0,430.35175879396985,Severe
+Katni,Madhya Pradesh,"Gole Bazar, Katni - MPPCB",2025-05-19 10:00:00,23.50016,80.23284,41.0,95.0,43.0,38.0,28.0,73.0,364.85207100591714,Very Poor
+Keonjhar,Odisha,"Jagamohanpur, Keonjhar - OSPCB",2025-05-19 10:00:00,21.6439,85.599355,,59.0,,10.0,58.0,,500.0,Severe
+Khanna,Punjab,"Kalal Majra, Khanna - PPCB",2025-05-19 10:00:00,30.736056,76.209694,115.0,130.0,28.0,7.0,18.0,20.0,306.2721893491124,Very Poor
+Khurja,Uttar_Pradesh,"Kalindi Kunj, Khurja - UPPCB",2025-05-19 10:00:00,28.2348927,77.8683002,67.0,127.0,3.0,80.0,43.0,5.0,445.27638190954775,Severe
+Kolhapur,Maharashtra,"Shivaji University, Kolhapur - MPCB",2025-05-19 10:00:00,16.6870449,74.2505872,32.0,45.0,5.0,2.0,13.0,3.0,242.6086956521739,Poor
+Kolhapur,Maharashtra,"Sinchan Bhavan, Kolhapur - MPCB",2025-05-19 10:00:00,16.7143745,74.2426398,,53.0,12.0,,7.0,38.0,162.40506329113924,Moderately Polluted
+Kolkata,West_Bengal,"Bidhannagar, Kolkata - WBPCB",2025-05-19 10:00:00,22.58157048,88.41002457,15.0,62.0,17.0,9.0,23.0,18.0,335.5621301775148,Very Poor
+Kolkata,West_Bengal,"Fort William, Kolkata - WBPCB",2025-05-19 10:00:00,22.55664,88.342674,27.0,30.0,34.0,3.0,20.0,7.0,317.98816568047334,Very Poor
+Kolkata,West_Bengal,"Jadavpur, Kolkata - WBPCB",2025-05-19 10:00:00,22.49929,88.36917,49.0,48.0,36.0,6.0,21.0,14.0,323.8461538461538,Very Poor
+Kolkata,West_Bengal,"Rabindra Bharati University, Kolkata - WBPCB",2025-05-19 10:00:00,22.627847,88.380669,26.0,24.0,24.0,11.0,21.0,18.0,323.8461538461538,Very Poor
+Kolkata,West_Bengal,"Rabindra Sarobar, Kolkata - WBPCB",2025-05-19 10:00:00,22.51106,88.35142,16.0,28.0,44.0,2.0,11.0,20.0,213.91304347826087,Poor
+Kolkata,West_Bengal,"Victoria, Kolkata - WBPCB",2025-05-19 10:00:00,22.5448082,88.3403691,30.0,39.0,26.0,8.0,22.0,25.0,329.70414201183434,Very Poor
+Kollam,Kerala,"Polayathode, Kollam - Kerala PCB",2025-05-19 10:00:00,8.8787,76.6073,53.0,81.0,9.0,2.0,16.0,31.0,285.6521739130435,Poor
+Korba,Chhattisgarh,"Rampur, Korba - CECB",2025-05-19 10:00:00,22.368195,82.746431,30.0,43.0,18.0,15.0,29.0,10.0,370.7100591715976,Very Poor
+Korba,Chhattisgarh,"Urja Nagar, Korba - CECB",2025-05-19 10:00:00,22.348441,82.549611,78.0,79.0,51.0,9.0,35.0,35.0,405.47738693467335,Severe
+Kota,Rajasthan,"Dhanmandi, Kota - RSPCB",2025-05-19 10:00:00,25.16409,75.858137,36.0,74.0,25.0,14.0,17.0,46.0,300.0,Poor
+Kota,Rajasthan,"Nayapura, Kota - RSPCB",2025-05-19 10:00:00,25.196024,75.855668,42.0,80.0,19.0,16.0,15.0,55.0,271.30434782608694,Poor
+Kota,Rajasthan,"Shrinath Puram, Kota - RSPCB",2025-05-19 10:00:00,25.14389,75.821256,92.0,94.0,14.0,13.0,54.0,50.0,500.0,Severe
+Kunjemura,Chhattisgarh,"OP Jindal School, Kunjemura - CECB",2025-05-19 10:00:00,22.12665,83.483212,31.0,45.0,16.0,5.0,36.0,8.0,410.45226130653265,Severe
+Latur,Maharashtra,"Sawe Wadi, Latur - MPCB",2025-05-19 10:00:00,18.39963,76.57452,40.0,41.0,18.0,5.0,17.0,31.0,300.0,Poor
+Lucknow,Uttar_Pradesh,"B R Ambedkar University, Lucknow - UPPCB",2025-05-19 10:00:00,26.766433,80.927299,82.0,106.0,12.0,92.0,14.0,35.0,256.95652173913044,Poor
+Lucknow,Uttar_Pradesh,"Gomti Nagar, Lucknow - UPPCB",2025-05-19 10:00:00,26.86812,81.005119,134.0,77.0,10.0,11.0,39.0,41.0,425.37688442211055,Severe
+Lucknow,Uttar_Pradesh,"Kendriya Vidyalaya, Lucknow - CPCB",2025-05-19 10:00:00,26.906111,80.948222,123.0,138.0,36.0,5.0,64.0,11.0,500.0,Severe
+Lucknow,Uttar_Pradesh,"Kukrail Picnic Spot-1, Lucknow - UPPCB",2025-05-19 10:00:00,26.90723,80.98579,43.0,64.0,23.0,18.0,24.0,43.0,341.42011834319527,Very Poor
+Lucknow,Uttar_Pradesh,"Lalbagh, Lucknow - CPCB",2025-05-19 10:00:00,26.8458805,80.9365541,110.0,132.0,45.0,10.0,49.0,17.0,475.1256281407035,Severe
+Lucknow,Uttar_Pradesh,"Talkatora District Industries Center, Lucknow - CPCB",2025-05-19 10:00:00,26.83399722,80.8917361,93.0,169.0,38.0,7.0,23.0,9.0,335.5621301775148,Very Poor
+Ludhiana,Punjab,"Punjab Agricultural University, Ludhiana - PPCB",2025-05-19 10:00:00,30.9028,75.8086,117.0,119.0,,12.0,34.0,18.0,400.0,Very Poor
+Madikeri,Karnataka,"Stuart Hill, Madikeri - KSPCB",2025-05-19 10:00:00,12.415911,75.73505,27.0,21.0,2.0,7.0,11.0,5.0,213.91304347826087,Poor
+Madurai,TamilNadu,"Uchapatti, Madurai - TNPCB",2025-05-19 10:00:00,9.865935,78.022669,19.0,26.0,20.0,32.0,12.0,6.0,228.2608695652174,Poor
+Mahad,Maharashtra,"Kamble Tarf Birwadi, Mahad - MPCB",2025-05-19 10:00:00,18.1023399,73.4783687,61.0,68.0,19.0,27.0,51.0,28.0,485.0753768844221,Severe
+Malegaon,Maharashtra,"Mahesh Nagar, Malegaon - MPCB",2025-05-19 10:00:00,20.555712,74.529236,40.0,51.0,14.0,10.0,18.0,19.0,306.2721893491124,Very Poor
+Mandi Gobindgarh,Punjab,"RIMT University, Mandi Gobindgarh - PPCB",2025-05-19 10:00:00,30.649961,76.331442,124.0,112.0,26.0,22.0,103.0,49.0,500.0,Severe
+Mandideep,Madhya Pradesh,"Sector-D Industrial Area, Mandideep - MPPCB",2025-05-19 10:00:00,23.10844,77.511428,64.0,85.0,21.0,18.0,21.0,55.0,323.8461538461538,Very Poor
+Mangalore,Karnataka,"Kadri, Mangalore - KSPCB",2025-05-19 10:00:00,12.88925,74.853,45.0,57.0,5.0,5.0,6.0,24.0,149.873417721519,Moderately Polluted
+Manguraha,Bihar,"Forest Rest House, Manguraha - BSPCB",2025-05-19 10:00:00,27.308328,84.531742,28.0,,5.0,6.0,152.0,23.0,500.0,Severe
+Meerut,Uttar_Pradesh,"Ganga Nagar, Meerut - UPPCB",2025-05-19 10:00:00,28.999264,77.7590354,63.0,92.0,12.0,18.0,35.0,60.0,405.47738693467335,Severe
+Meerut,Uttar_Pradesh,"Jai Bhim Nagar, Meerut - UPPCB",2025-05-19 10:00:00,28.9535882,77.7622941,26.0,104.0,17.0,10.0,36.0,62.0,410.45226130653265,Severe
+Meerut,Uttar_Pradesh,"Pallavpuram Phase 2, Meerut - UPPCB",2025-05-19 10:00:00,29.06351,77.709723,61.0,117.0,22.0,26.0,11.0,35.0,213.91304347826087,Poor
+Mira-Bhayandar,Maharashtra,"Bhayandar West, Mira-Bhayandar - MPCB",2025-05-19 10:00:00,19.296481,72.840923,31.0,48.0,7.0,2.0,12.0,4.0,228.2608695652174,Poor
+Moradabad,Uttar_Pradesh,"Buddhi Vihar, Moradabad - UPPCB",2025-05-19 10:00:00,28.83526,78.7446,38.0,68.0,23.0,17.0,39.0,20.0,425.37688442211055,Severe
+Moradabad,Uttar_Pradesh,"Eco Herbal Park, Moradabad - UPPCB",2025-05-19 10:00:00,28.840739,78.697531,37.0,63.0,20.0,11.0,7.0,52.0,162.40506329113924,Moderately Polluted
+Moradabad,Uttar_Pradesh,"Employment Office, Moradabad - UPPCB",2025-05-19 10:00:00,28.88528,78.7388,43.0,68.0,16.0,32.0,32.0,18.0,388.28402366863907,Very Poor
+Moradabad,Uttar_Pradesh,"Jigar Colony, Moradabad - UPPCB",2025-05-19 10:00:00,28.856664,78.772638,35.0,69.0,25.0,46.0,42.0,19.0,440.30150753768845,Severe
+Moradabad,Uttar_Pradesh,"Transport Nagar, Moradabad - UPPCB",2025-05-19 10:00:00,28.802625,78.753728,42.0,61.0,27.0,38.0,76.0,60.0,500.0,Severe
+Motihari,Bihar,"Gandak Colony, Motihari - BSPCB",2025-05-19 10:00:00,26.63086,84.90051,23.0,34.0,13.0,15.0,,11.0,38.333333333333336,Good
+Mumbai,Maharashtra,"Bandra Kurla Complex, Mumbai - MPCB",2025-05-19 10:00:00,19.065931,72.862131,58.0,66.0,16.0,,30.0,13.0,376.56804733727813,Very Poor
+Mumbai,Maharashtra,"Borivali East, Mumbai - IITM",2025-05-19 10:00:00,19.23241,72.86895,39.0,47.0,16.0,,2.0,7.0,100.0,Satisfactory
+Mumbai,Maharashtra,"Borivali East, Mumbai - MPCB",2025-05-19 10:00:00,19.2243333,72.8658113,26.0,44.0,7.0,5.0,3.0,,112.27848101265823,Moderately Polluted
+Mumbai,Maharashtra,"Byculla, Mumbai - BMC",2025-05-19 10:00:00,18.9767,72.838,17.0,28.0,14.0,1.0,4.0,18.0,124.81012658227849,Moderately Polluted
+Mumbai,Maharashtra,"Chakala-Andheri East, Mumbai - IITM",2025-05-19 10:00:00,19.11074,72.86084,27.0,73.0,44.0,2.0,21.0,18.0,323.8461538461538,Very Poor
+Mumbai,Maharashtra,"Chembur, Mumbai - MPCB",2025-05-19 10:00:00,19.0364585,72.8954371,13.0,52.0,29.0,2.0,43.0,17.0,445.27638190954775,Severe
+Mumbai,Maharashtra,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-05-19 10:00:00,19.10078,72.87462,40.0,71.0,18.0,20.0,15.0,7.0,271.30434782608694,Poor
+Mumbai,Maharashtra,"Colaba, Mumbai - MPCB",2025-05-19 10:00:00,18.91,72.82,6.0,,26.0,,25.0,11.0,347.27810650887574,Very Poor
+Mumbai,Maharashtra,"Deonar, Mumbai - IITM",2025-05-19 10:00:00,19.04946,72.923,34.0,105.0,16.0,8.0,28.0,7.0,364.85207100591714,Very Poor
+Mumbai,Maharashtra,"Ghatkopar, Mumbai - BMC",2025-05-19 10:00:00,19.083694,72.920967,17.0,75.0,19.0,2.0,8.0,3.0,174.9367088607595,Moderately Polluted
+Mumbai,Maharashtra,"Kandivali East, Mumbai - MPCB",2025-05-19 10:00:00,19.2058,72.8682,78.0,99.0,1.0,,38.0,,420.40201005025125,Severe
+Mumbai,Maharashtra,"Kandivali West, Mumbai - BMC",2025-05-19 10:00:00,19.215859,72.831718,15.0,30.0,12.0,3.0,4.0,22.0,124.81012658227849,Moderately Polluted
+Mumbai,Maharashtra,"Kherwadi_Bandra East, Mumbai - MPCB",2025-05-19 10:00:00,19.0632143,72.8456324,33.0,52.0,14.0,1.0,17.0,15.0,300.0,Poor
+Mumbai,Maharashtra,"Khindipada-Bhandup West, Mumbai - IITM",2025-05-19 10:00:00,19.1653323,72.922099,29.0,46.0,17.0,9.0,86.0,11.0,500.0,Severe
+Mumbai,Maharashtra,"Malad West, Mumbai - IITM",2025-05-19 10:00:00,19.19709,72.82204,29.0,65.0,26.0,5.0,35.0,16.0,405.47738693467335,Severe
+Mumbai,Maharashtra,"Mazgaon, Mumbai - IITM",2025-05-19 10:00:00,18.96702,72.84214,29.0,46.0,17.0,,15.0,25.0,271.30434782608694,Poor
+Mumbai,Maharashtra,"Mindspace-Malad West, Mumbai - MPCB",2025-05-19 10:00:00,19.1878657,72.8304069,15.0,50.0,11.0,7.0,11.0,11.0,213.91304347826087,Poor
+Mumbai,Maharashtra,"Navy Nagar-Colaba, Mumbai - IITM",2025-05-19 10:00:00,18.897756,72.81332,30.0,56.0,17.0,15.0,,20.0,56.793587174348694,Satisfactory
+Mumbai,Maharashtra,"Powai, Mumbai - MPCB",2025-05-19 10:00:00,19.1375,72.915056,19.0,60.0,7.0,,18.0,9.0,306.2721893491124,Very Poor
+Mumbai,Maharashtra,"Sewri, Mumbai - BMC",2025-05-19 10:00:00,19.000084,72.85673,34.0,47.0,,,9.0,7.0,187.46835443037975,Moderately Polluted
+Mumbai,Maharashtra,"Shivaji Nagar, Mumbai - BMC",2025-05-19 10:00:00,19.060498,72.923356,39.0,104.0,12.0,9.0,6.0,7.0,149.873417721519,Moderately Polluted
+Mumbai,Maharashtra,"Siddharth Nagar-Worli, Mumbai - IITM",2025-05-19 10:00:00,19.000083,72.813993,23.0,83.0,16.0,,34.0,29.0,400.0,Very Poor
+Mumbai,Maharashtra,"Sion, Mumbai - MPCB",2025-05-19 10:00:00,19.047,72.8746,66.0,82.0,192.0,8.0,2.0,1.0,212.7927927927928,Poor
+Mumbai,Maharashtra,"Vile Parle West, Mumbai - MPCB",2025-05-19 10:00:00,19.10861,72.83622,19.0,215.0,61.0,37.0,4.0,5.0,176.8845897264843,Moderately Polluted
+Mumbai,Maharashtra,"Worli, Mumbai - MPCB",2025-05-19 10:00:00,18.9936162,72.8128113,68.0,74.0,9.0,6.0,6.0,24.0,149.873417721519,Moderately Polluted
+Munger,Bihar,"Town Hall, Munger - BSPCB",2025-05-19 10:00:00,25.376776,86.471523,28.0,39.0,5.0,,30.0,5.0,376.56804733727813,Very Poor
+Muzaffarnagar,Uttar_Pradesh,"New Mandi, Muzaffarnagar - UPPCB",2025-05-19 10:00:00,29.4723508,77.7194031,141.0,127.0,27.0,20.0,26.0,35.0,353.1360946745562,Very Poor
+Muzaffarpur,Bihar,"Buddha Colony, Muzaffarpur - BSPCB",2025-05-19 10:00:00,26.11442,85.39813,43.0,44.0,3.0,3.0,21.0,42.0,323.8461538461538,Very Poor
+Muzaffarpur,Bihar,"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",2025-05-19 10:00:00,26.1403345,85.3650192,26.0,44.0,13.0,8.0,49.0,23.0,475.1256281407035,Severe
+Muzaffarpur,Bihar,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",2025-05-19 10:00:00,26.1209,85.3647,37.0,,9.0,5.0,18.0,22.0,306.2721893491124,Very Poor
+Mysuru,Karnataka,"Hebbal 1st Stage, Mysuru - KSPCB",2025-05-19 10:00:00,12.21041,76.37376,18.0,33.0,21.0,9.0,17.0,10.0,300.0,Poor
+Nagaur,Rajasthan,"Karni Colony, Nagaur - RSPCB",2025-05-19 10:00:00,27.213494,73.734444,37.0,98.0,8.0,5.0,17.0,30.0,300.0,Poor
+Nagpur,Maharashtra,"Ambazari, Nagpur - MPCB",2025-05-19 10:00:00,21.121801,79.04952,133.0,112.0,15.0,17.0,46.0,20.0,460.2010050251256,Severe
+Nagpur,Maharashtra,"Mahal, Nagpur - MPCB",2025-05-19 10:00:00,21.14472,79.107595,71.0,115.0,25.0,32.0,48.0,12.0,470.1507537688442,Severe
+Nagpur,Maharashtra,"Opp GPO Civil Lines, Nagpur - MPCB",2025-05-19 10:00:00,21.152875,79.0517531,137.0,98.0,41.0,38.0,59.0,13.0,500.0,Severe
+Nagpur,Maharashtra,"Ram Nagar, Nagpur - MPCB",2025-05-19 10:00:00,21.143383,79.048912,136.0,124.0,16.0,10.0,44.0,16.0,450.25125628140705,Severe
+Naharlagun,Arunachal_Pradesh,"Naharlagun, Naharlagun - APSPCB",2025-05-19 10:00:00,27.103358,93.679645,36.0,40.0,5.0,6.0,12.0,4.0,228.2608695652174,Poor
+Nalbari,Assam,"Bata Chowk, Nalbari - PCBA",2025-05-19 10:00:00,26.446912,91.439057,25.0,24.0,3.0,2.0,25.0,33.0,347.27810650887574,Very Poor
+Namakkal,TamilNadu,"Ponnusamy Nagar, Namakkal - TNPCB",2025-05-19 10:00:00,11.273992,78.163545,15.0,18.0,10.0,9.0,,,25.0,Good
+Nanded,Maharashtra,"Sneh Nagar, Nanded - MPCB",2025-05-19 10:00:00,19.173852,77.296291,,32.0,19.0,,38.0,38.0,420.40201005025125,Severe
+Nashik,Maharashtra,"Gangapur Road, Nashik - MPCB",2025-05-19 10:00:00,20.0073285,73.7762427,41.0,39.0,18.0,5.0,14.0,30.0,256.95652173913044,Poor
+Nashik,Maharashtra,"Hirawadi, Nashik - MPCB",2025-05-19 10:00:00,20.021503,73.813844,38.0,72.0,5.0,2.0,18.0,20.0,306.2721893491124,Very Poor
+Nashik,Maharashtra,"MIDC Ambad, Nashik - MPCB",2025-05-19 10:00:00,19.95022,73.73148,54.0,74.0,8.0,2.0,17.0,11.0,300.0,Poor
+Nashik,Maharashtra,"Pandav Nagari, Nashik - MPCB",2025-05-19 10:00:00,19.9591346,73.7788008,29.0,46.0,4.0,1.0,15.0,11.0,271.30434782608694,Poor
+Navi Mumbai,Maharashtra,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-05-19 10:00:00,19.090337,73.014232,55.0,54.0,18.0,6.0,33.0,38.0,394.14201183431953,Very Poor
+Navi Mumbai,Maharashtra,"Mahape, Navi Mumbai - MPCB",2025-05-19 10:00:00,19.1135051,73.008978,32.0,61.0,48.0,24.0,45.0,,455.22613065326635,Severe
+Navi Mumbai,Maharashtra,"Sanpada, Navi Mumbai - MPCB",2025-05-19 10:00:00,19.0575752,73.0151367,49.0,72.0,18.0,16.0,24.0,8.0,341.42011834319527,Very Poor
+Navi Mumbai,Maharashtra,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-05-19 10:00:00,19.02579,73.10297,49.0,76.0,30.0,4.0,20.0,7.0,317.98816568047334,Very Poor
+Navi Mumbai,Maharashtra,"Tondare-Taloja, Navi Mumbai - MPCB",2025-05-19 10:00:00,19.063,73.1209,39.0,68.0,16.0,,37.0,1.0,415.42713567839195,Severe
+Nayagarh,Odisha,"Dabuna, Nayagarh - OSPCB",2025-05-19 10:00:00,21.847279,85.416905,29.0,60.0,5.0,5.0,21.0,7.0,323.8461538461538,Very Poor
+Noida,Uttar_Pradesh,"Sector - 125, Noida - UPPCB",2025-05-19 10:00:00,28.5447608,77.3231257,65.0,122.0,19.0,15.0,62.0,17.0,500.0,Severe
+Noida,Uttar_Pradesh,"Sector - 62, Noida - IMD",2025-05-19 10:00:00,28.6245479,77.3577104,136.0,151.0,30.0,,42.0,77.0,440.30150753768845,Severe
+Noida,Uttar_Pradesh,"Sector-1, Noida - UPPCB",2025-05-19 10:00:00,28.5898,77.3101,88.0,137.0,71.0,23.0,25.0,9.0,347.27810650887574,Very Poor
+Ooty,TamilNadu,"Bombay Castel, Ooty - TNPCB",2025-05-19 10:00:00,11.4068288,76.7138973,33.0,29.0,,26.0,,5.0,55.75250836120401,Satisfactory
+Pali,Rajasthan,"Indira Colony Vistar, Pali - RSPCB",2025-05-19 10:00:00,25.771061,73.340227,57.0,116.0,32.0,11.0,36.0,32.0,410.45226130653265,Severe
+Panchgaon,Haryana,"Amity University, Panchgaon - IITM",2025-05-19 10:00:00,28.3153,76.9143,76.0,71.0,80.0,19.0,65.0,28.0,500.0,Severe
+Patiala,Punjab,"Model Town, Patiala - PPCB",2025-05-19 10:00:00,30.349388,76.366642,133.0,129.0,18.0,3.0,48.0,48.0,470.1507537688442,Severe
+Patna,Bihar,"DRM Office Danapur, Patna - BSPCB",2025-05-19 10:00:00,25.586562,85.043586,52.0,69.0,32.0,6.0,34.0,12.0,400.0,Very Poor
+Patna,Bihar,"Govt. High School Shikarpur, Patna - BSPCB",2025-05-19 10:00:00,25.592539,85.227158,56.0,115.0,6.0,7.0,39.0,85.0,425.37688442211055,Severe
+Patna,Bihar,"IGSC Planetarium Complex, Patna - BSPCB",2025-05-19 10:00:00,25.610369,85.132568,77.0,,,24.0,88.0,60.0,500.0,Severe
+Patna,Bihar,"Muradpur, Patna - BSPCB",2025-05-19 10:00:00,25.619651,85.147382,92.0,96.0,53.0,8.0,50.0,16.0,480.1005025125628,Severe
+Patna,Bihar,"Rajbansi Nagar, Patna - BSPCB",2025-05-19 10:00:00,25.599486,85.113666,30.0,51.0,14.0,8.0,17.0,56.0,300.0,Poor
+Patna,Bihar,"Samanpura, Patna - BSPCB",2025-05-19 10:00:00,25.596727,85.085624,59.0,99.0,44.0,2.0,33.0,55.0,394.14201183431953,Very Poor
+Perundurai,TamilNadu,"SIPCOT Industrial Park, Perundurai - TNPCB",2025-05-19 10:00:00,11.258242,77.552761,19.0,,7.0,14.0,32.0,46.0,388.28402366863907,Very Poor
+Pimpri-Chinchwad,Maharashtra,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-05-19 10:00:00,18.63673,73.82487,40.0,55.0,26.0,2.0,21.0,6.0,323.8461538461538,Very Poor
+Pimpri-Chinchwad,Maharashtra,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-05-19 10:00:00,18.59051,73.77946,34.0,59.0,23.0,2.0,21.0,2.0,323.8461538461538,Very Poor
+Pimpri-Chinchwad,Maharashtra,"Thergaon, Pimpri Chinchwad - MPCB",2025-05-19 10:00:00,18.616318,73.765797,34.0,57.0,32.0,3.0,41.0,4.0,435.32663316582915,Severe
+Pithampur,Madhya Pradesh,"Sector-2 Industrial Area, Pithampur - MPPCB",2025-05-19 10:00:00,22.624758,75.675238,69.0,91.0,19.0,14.0,16.0,44.0,285.6521739130435,Poor
+Pratapgarh,Rajasthan,"Pragati Nagar, Pratapgarh - RSPCB",2025-05-19 10:00:00,24.041198,74.780702,31.0,59.0,22.0,5.0,25.0,23.0,347.27810650887574,Very Poor
+Prayagraj,Uttar_Pradesh,"Jhunsi, Prayagraj - UPPCB",2025-05-19 10:00:00,25.425602,81.917152,42.0,96.0,6.0,28.0,9.0,55.0,187.46835443037975,Moderately Polluted
+Prayagraj,Uttar_Pradesh,"Motilal Nehru NIT, Prayagraj - UPPCB",2025-05-19 10:00:00,25.494,81.863,57.0,87.0,12.0,33.0,14.0,21.0,256.95652173913044,Poor
+Prayagraj,Uttar_Pradesh,"Nagar Nigam, Prayagraj - UPPCB",2025-05-19 10:00:00,25.44919916,81.82735986,65.0,96.0,5.0,47.0,4.0,12.0,124.81012658227849,Moderately Polluted
+Pune,Maharashtra,"Bhosari, Pune - IITM",2025-05-19 10:00:00,18.640051,73.848956,26.0,46.0,25.0,,75.0,,500.0,Severe
+Pune,Maharashtra,"Bhumkar Nagar, Pune - IITM",2025-05-19 10:00:00,18.60577,73.749976,35.0,59.0,21.0,,69.0,10.0,500.0,Severe
+Pune,Maharashtra,"Dhankawadi, Pune - IITM",2025-05-19 10:00:00,18.459883,73.852193,27.0,41.0,,,,19.0,45.0,Good
+Pune,Maharashtra,"Katraj Dairy, Pune - MPCB",2025-05-19 10:00:00,18.45445,73.854155,23.0,34.0,7.0,2.0,16.0,30.0,285.6521739130435,Poor
+Pune,Maharashtra,"Panchawati_Pashan, Pune - IITM",2025-05-19 10:00:00,18.536457,73.805454,22.0,45.0,39.0,,18.0,9.0,306.2721893491124,Very Poor
+Pune,Maharashtra,"Revenue Colony-Shivajinagar, Pune - IITM",2025-05-19 10:00:00,18.530085,73.849598,70.0,74.0,42.0,9.0,18.0,8.0,306.2721893491124,Very Poor
+Raipur,Chhattisgarh,"AIIMS, Raipur - CECB",2025-05-19 10:00:00,21.258815,81.578979,43.0,62.0,20.0,8.0,32.0,7.0,388.28402366863907,Very Poor
+Raipur,Chhattisgarh,"Bhatagaon New ISBT, Raipur - CECB",2025-05-19 10:00:00,21.219665,81.630094,30.0,48.0,36.0,8.0,26.0,10.0,353.1360946745562,Very Poor
+Raipur,Chhattisgarh,"Krishak Nagar, Raipur - CECB",2025-05-19 10:00:00,21.237755,81.705301,58.0,59.0,13.0,8.0,33.0,4.0,394.14201183431953,Very Poor
+Raipur,Chhattisgarh,"Siltara Phase-II, Raipur - CECB",2025-05-19 10:00:00,21.371751,81.664929,67.0,99.0,23.0,14.0,29.0,6.0,370.7100591715976,Very Poor
+Rairangpur,Odisha,"Divisional Forest Office, Rairangpur - OSPCB",2025-05-19 10:00:00,22.265816,86.174829,44.0,50.0,,,20.0,10.0,317.98816568047334,Very Poor
+Rajamahendravaram,Andhra_Pradesh,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2025-05-19 10:00:00,16.9872867,81.7363176,23.0,36.0,21.0,3.0,24.0,11.0,341.42011834319527,Very Poor
+Rajgir,Bihar,"Dangi Tola, Rajgir - BSPCB",2025-05-19 10:00:00,25.0328,85.41948,66.0,58.0,9.0,,,34.0,120.53511705685618,Moderately Polluted
+Rajsamand,Rajasthan,"Dhoinda, Rajsamand - RSPCB",2025-05-19 10:00:00,25.03636,73.883502,43.0,59.0,34.0,10.0,37.0,74.0,415.42713567839195,Severe
+Ramanathapuram,TamilNadu,"Chalai Bazaar, Ramanathapuram - TNPCB",2025-05-19 10:00:00,9.36399,78.831977,25.0,22.0,12.0,14.0,29.0,6.0,370.7100591715976,Very Poor
+Ratlam,Madhya Pradesh,"Shasthri Nagar, Ratlam - IPCA Lab",2025-05-19 10:00:00,23.331731,75.045981,45.0,67.0,,43.0,,,75.41806020066889,Satisfactory
+Rishikesh,Uttarakhand,"Shivaji Nagar, Rishikesh - UKPCB",2025-05-19 10:00:00,30.075911,78.2859547,65.0,70.0,10.0,4.0,33.0,24.0,394.14201183431953,Very Poor
+Rourkela,Odisha,"Fertilizer Township, Rourkela - OSPCB",2025-05-19 10:00:00,22.18972222,84.86277778,100.0,100.0,15.0,9.0,23.0,,335.5621301775148,Very Poor
+Rourkela,Odisha,"Raghunathpali, Rourkela - OSPCB",2025-05-19 10:00:00,22.220833,84.809444,61.0,75.0,30.0,,74.0,,500.0,Severe
+Rourkela,Odisha,"Sector-2, Rourkela - OSPCB",2025-05-19 10:00:00,22.245,84.88111111,56.0,74.0,,,38.0,,420.40201005025125,Severe
+Sagar,Madhya Pradesh,"Civil Lines, Sagar - MPPCB",2025-05-19 10:00:00,23.838586,78.759431,46.0,49.0,3.0,8.0,28.0,40.0,364.85207100591714,Very Poor
+Sagar,Madhya Pradesh,"Deen Dayal Nagar, Sagar - MPPCB",2025-05-19 10:00:00,23.8640158,78.80289321,38.0,56.0,22.0,6.0,70.0,,500.0,Severe
+Salem,TamilNadu,"Sona College of Technology, Salem - TNPCB",2025-05-19 10:00:00,11.679111,78.125052,17.0,25.0,12.0,82.0,43.0,16.0,445.27638190954775,Severe
+Sangli,Maharashtra,"Vijay Nagar, Sangli - MPCB",2025-05-19 10:00:00,16.5038,74.3623,40.0,54.0,13.0,16.0,14.0,9.0,256.95652173913044,Poor
+Sawai Madhopur,Rajasthan,"Sahu Nagar, Sawai Madhopur - RSPCB",2025-05-19 10:00:00,26.031443,76.359327,66.0,124.0,19.0,8.0,54.0,56.0,500.0,Severe
+Shillong,Meghalaya,"Lumpyngngad, Shillong - Meghalaya PCB",2025-05-19 10:00:00,25.5586,91.8985,9.0,,,5.0,8.0,55.0,174.9367088607595,Moderately Polluted
+Shivamogga,Karnataka,"Vinoba Nagara, Shivamogga - KSPCB",2025-05-19 10:00:00,13.94,75.555917,33.0,46.0,37.0,4.0,26.0,1.0,353.1360946745562,Very Poor
+Sikar,Rajasthan,"Radhakishan Pura, Sikar - RSPCB",2025-05-19 10:00:00,27.608912,75.153302,38.0,95.0,16.0,5.0,13.0,33.0,242.6086956521739,Poor
+Silchar,Assam,"Tarapur, Silchar - PCBA",2025-05-19 10:00:00,24.82827,92.79525,37.0,60.0,12.0,5.0,25.0,1.0,347.27810650887574,Very Poor
+Siliguri,West_Bengal,"Ward-32 Bapupara, Siliguri - WBPCB",2025-05-19 10:00:00,26.6879226,88.4152495,36.0,35.0,16.0,11.0,30.0,24.0,376.56804733727813,Very Poor
+Singrauli,Madhya Pradesh,"Suryakiran Bhawan NCL, Singrauli - MPPCB",2025-05-19 10:00:00,24.10897,82.64558,38.0,71.0,3.0,23.0,14.0,52.0,256.95652173913044,Poor
+Sirohi,Rajasthan,"Vedhaynath Colony, Sirohi - RSPCB",2025-05-19 10:00:00,24.885261,72.857549,32.0,62.0,9.0,2.0,20.0,16.0,317.98816568047334,Very Poor
+Sivasagar,Assam,"Girls College, Sivasagar - PCBA",2025-05-19 10:00:00,26.987634,94.636574,23.0,25.0,22.0,9.0,19.0,3.0,312.1301775147929,Very Poor
+Solapur,Maharashtra,"Ratandeep Housing Society, Solapur - MPCB",2025-05-19 10:00:00,17.65439,75.90649,36.0,50.0,33.0,4.0,23.0,38.0,335.5621301775148,Very Poor
+Solapur,Maharashtra,"Solapur, Solapur - MPCB",2025-05-19 10:00:00,17.6599188,75.9063906,33.0,72.0,55.0,29.0,,,72.50501002004007,Satisfactory
+Sri Ganganagar,Rajasthan,"Old City, Sri Ganganagar - RSPCB",2025-05-19 10:00:00,29.931624,73.864511,55.0,152.0,34.0,11.0,23.0,29.0,335.5621301775148,Very Poor
+Sri Vijaya Puram,Andaman and Nicobar,"Police Line, Sri Vijaya Puram - ANPCC",2025-05-19 10:00:00,11.654054,92.734055,5.0,17.0,43.0,21.0,20.0,7.0,317.98816568047334,Very Poor
+Suakati,Odisha,"OMC Colony, Suakati - OSPCB",2025-05-19 10:00:00,21.606865,85.510538,39.0,46.0,12.0,3.0,15.0,81.0,271.30434782608694,Poor
+Surat,Gujarat,"Science Center, Surat - SMC",2025-05-19 10:00:00,21.170046,72.795405,32.0,32.0,13.0,40.0,34.0,,400.0,Very Poor
+Talcher,Odisha,"Talcher Coalfields,Talcher - OSPCB",2025-05-19 10:00:00,20.9360711,85.1707021,37.0,40.0,28.0,30.0,35.0,2.0,405.47738693467335,Severe
+Tensa,Odisha,"Barsua Iron Ore Mines, Tensa - OSPCB",2025-05-19 10:00:00,21.869985,85.167016,,54.0,,16.0,17.0,,300.0,Poor
+Thane,Maharashtra,"Kasarvadavali, Thane - MPCB",2025-05-19 10:00:00,19.26777,72.97182,47.0,74.0,15.0,3.0,23.0,5.0,335.5621301775148,Very Poor
+Thane,Maharashtra,"Upvan Fort, Thane - MPCB",2025-05-19 10:00:00,19.222279,72.957979,26.0,40.0,7.0,1.0,18.0,2.0,306.2721893491124,Very Poor
+Thanjavur,TamilNadu,"Parisutham Nagar, Thanjavur - TNPCB",2025-05-19 10:00:00,10.7654824,79.1389968,,23.0,41.0,16.0,7.0,8.0,162.40506329113924,Moderately Polluted
+Thiruvananthapuram,Kerala,"Kariavattom, Thiruvananthapuram - Kerala PCB",2025-05-19 10:00:00,8.5637,76.8865,32.0,58.0,7.0,6.0,22.0,36.0,329.70414201183434,Very Poor
+Thiruvananthapuram,Kerala,"Plammoodu, Thiruvananthapuram - Kerala PCB",2025-05-19 10:00:00,8.5149093,76.9435879,19.0,16.0,10.0,19.0,8.0,12.0,174.9367088607595,Moderately Polluted
+Thoothukudi,TamilNadu,"Meelavittan, Thoothukudi - TNPCB",2025-05-19 10:00:00,8.816428,78.099039,,32.0,5.0,9.0,29.0,16.0,370.7100591715976,Very Poor
+Thrissur,Kerala,"Corporation Ground, Thrissur - Kerala PCB",2025-05-19 10:00:00,10.5324,76.2159,50.0,62.0,10.0,1.0,17.0,29.0,300.0,Poor
+Tiruchirappalli,TamilNadu,"St Joseph College, Tiruchirappalli - TNPCB",2025-05-19 10:00:00,10.830158,78.691849,44.0,42.0,4.0,16.0,5.0,13.0,137.34177215189874,Moderately Polluted
+Tirumala,Andhra_Pradesh,"Toll Gate, Tirumala - APPCB (Formerly known as Tirumala, Tirupati - APPCB)",2025-05-19 10:00:00,13.67,79.35,52.0,40.0,17.0,4.0,21.0,9.0,323.8461538461538,Very Poor
+Tirunelveli,TamilNadu,"Municipal Corporation Office, Tirunelveli - TNPCB",2025-05-19 10:00:00,8.728442,77.6962,32.0,31.0,8.0,16.0,21.0,6.0,323.8461538461538,Very Poor
+Tirupati,Andhra_Pradesh,"Vaikuntapuram, Tirupati - APPCB",2025-05-19 10:00:00,13.615387,79.40923,94.0,67.0,8.0,13.0,18.0,27.0,306.2721893491124,Very Poor
+Tonk,Rajasthan,"Shastri Nagar, Tonk - RSPCB",2025-05-19 10:00:00,26.159933,75.780517,74.0,94.0,21.0,3.0,32.0,27.0,388.28402366863907,Very Poor
+Udaipur,Rajasthan,"Ashok Nagar, Udaipur - RSPCB",2025-05-19 10:00:00,24.5886166,73.6321397,57.0,81.0,35.0,3.0,29.0,17.0,370.7100591715976,Very Poor
+Ulhasnagar,Maharashtra,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-05-19 10:00:00,19.235581,73.159121,71.0,93.0,48.0,13.0,33.0,15.0,394.14201183431953,Very Poor
+Vapi,Gujarat,"Phase-1 GIDC, Vapi - GPCB",2025-05-19 10:00:00,20.362421,72.918013,26.0,57.0,14.0,36.0,,2.0,57.77555110220441,Satisfactory
+Varanasi,Uttar_Pradesh,"Ardhali Bazar, Varanasi - UPPCB",2025-05-19 10:00:00,25.3505986,82.9083074,38.0,55.0,41.0,16.0,6.0,35.0,149.873417721519,Moderately Polluted
+Varanasi,Uttar_Pradesh,"Bhelupur, Varanasi - UPPCB",2025-05-19 10:00:00,25.301778,82.996789,18.0,61.0,8.0,40.0,8.0,3.0,174.9367088607595,Moderately Polluted
+Varanasi,Uttar_Pradesh,"IESD Banaras Hindu University, Varanasi - UPPCB",2025-05-19 10:00:00,25.262326,82.995408,35.0,51.0,2.0,30.0,8.0,3.0,174.9367088607595,Moderately Polluted
+Varanasi,Uttar_Pradesh,"Maldahiya, Varanasi - UPPCB",2025-05-19 10:00:00,25.32393,82.99687,27.0,62.0,2.0,29.0,18.0,2.0,306.2721893491124,Very Poor
+Vijayapura,Karnataka,"Ibrahimpur, Vijayapura - KSPCB",2025-05-19 10:00:00,16.802639,75.722694,37.0,47.0,9.0,,24.0,16.0,341.42011834319527,Very Poor
+Vijayawada,Andhra_Pradesh,"HB Colony, Vijayawada - APPCB",2025-05-19 10:00:00,16.536107,80.594233,46.0,51.0,18.0,20.0,41.0,8.0,435.32663316582915,Severe
+Vijayawada,Andhra_Pradesh,"Rajiv Gandhi Park, Vijayawada - APPCB",2025-05-19 10:00:00,16.509717,80.612222,50.0,48.0,43.0,19.0,41.0,15.0,435.32663316582915,Severe
+Vijayawada,Andhra_Pradesh,"Rajiv Nagar, Vijayawada - APPCB",2025-05-19 10:00:00,16.554731,80.64911,45.0,48.0,21.0,21.0,26.0,22.0,353.1360946745562,Very Poor
+Virar,Maharashtra,"Bolinj, Virar - MPCB",2025-05-19 10:00:00,19.445821,72.7988231,33.0,59.0,17.0,4.0,33.0,10.0,394.14201183431953,Very Poor
+Visakhapatnam,Andhra_Pradesh,"GVM Corporation, Visakhapatnam - APPCB",2025-05-19 10:00:00,17.72,83.3,23.0,36.0,15.0,9.0,13.0,18.0,242.6086956521739,Poor
+Vrindavan,Uttar_Pradesh,"Omex Eternity, Vrindavan - UPPCB",2025-05-19 10:00:00,27.571409,77.655757,40.0,60.0,12.0,27.0,37.0,12.0,415.42713567839195,Severe
